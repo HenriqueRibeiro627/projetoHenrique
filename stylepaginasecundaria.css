@@ -1,0 +1,42 @@
+body {
+    background-color:  #C0C0C0;
+    font-family: "times new roman", times, serif;
+  }
+  h1 {
+     color:  #9370DB;
+    text-align: center;
+    font-size: 50px;
+  }
+  img {
+    border-radius: 70%;
+  }
+  p {
+    color: #9370DB;
+    font-size:25px;
+    float: left;
+  }
+  .container{
+      display: flex;
+      align-items: center;
+      height:auto;
+      margin-top: 25px;
+  }
+  #legenda {
+     color: #9370DB;
+        text-align: center;
+        border: thin silver solid;
+        margin: 0.5em;
+        padding: 0.5em;
+  }
+  #hotel {
+    float: right;    
+  }
+  #piscina {
+    float: right;
+  } 
+  #transporte {
+    float: right;
+  }
+  #botao {
+  float: left;
+  }
